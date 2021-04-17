@@ -1,2 +1,2 @@
-# FinTech-Assignments
+# FinTech-Assignment_Case-Stucy
 Homework
